@@ -6,9 +6,8 @@
 
 ## Demo
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/72634901/172941119-302356e1-5648-457b-83df-c309fbe3fb57.gif" width="25%" height="25%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/72634901/172941119-302356e1-5648-457b-83df-c309fbe3fb57.gif" width="20%" height="20%"/>
+
 
 ## Getting Started as New Flutter Developer
 
